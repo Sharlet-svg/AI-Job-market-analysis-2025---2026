@@ -7,4 +7,15 @@ The data was obtained from kaggle
 
 DASHBOARD
 (Ai job market analysis 2025 - 2026)<img width="1041" height="509" alt="AI job market analysis 2025- 2026" src="https://github.com/user-attachments/assets/8eda11ae-deb3-4169-b444-d3b34f4c851d" />
+#Objectives
+To analyze AI job market across the different experience levels,type of remotework,geographical location and the market demand score.
 
+#Key insights.
+Those who work fully remote on AI jobs earn more, followed closely by those who work onsite and then the employees who choose to work as a hybrid of the two.
+Having many years of experience does not automatically mean a higher salary, as salary is also affected by other factors including the job title, job demand and Level of education.
+From the data it was a sample of 14 countries, and the highest paying country for the Ai jobs is the United States, folowed by Global pay rates,then United arab emirates and the least of them all is India.
+There is a positive correlation between market demand score and salary, in that as the demand increases the annual salary for various Ai jobs also increases.
+On Average the highest paying job is AI solutions Architect and the least paid one is Ai Business Analyst.
+
+#Tech Stack
+Data analysis using python(pandas/numpy) for cleaning and Power Bi for visualization
