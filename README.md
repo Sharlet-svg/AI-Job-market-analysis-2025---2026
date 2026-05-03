@@ -11,10 +11,13 @@ DASHBOARD
 To analyze AI job market across the different experience levels,type of remotework,geographical location and the market demand score.
 
 #Key insights.
-Those who work fully remote on AI jobs earn more, followed closely by those who work onsite and then the employees who choose to work as a hybrid of the two.
+Remote AI jobs offer competitive pay, followed closely by those who work onsite and then the employees who choose to work as a hybrid of the two.
 Having many years of experience does not automatically mean a higher salary, as salary is also affected by other factors including the job title, job demand and Level of education.
-From the data it was a sample of 14 countries, and the highest paying country for the Ai jobs is the United States, folowed by Global pay rates,then United arab emirates and the least of them all is India.
-There is a positive correlation between market demand score and salary, in that as the demand increases the annual salary for various Ai jobs also increases.
+
+Countries such as the united sates dominate high paying opportunities
+
+The Ai jobs that are in demand tend to have higher salary ranges,
+
 On Average the highest paying job is AI solutions Architect and the least paid one is Ai Business Analyst.
 
 #Tech Stack
