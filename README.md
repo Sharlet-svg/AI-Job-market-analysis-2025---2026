@@ -12,9 +12,10 @@ To analyze AI job market across the different experience levels,type of remotewo
 
 #Key insights.
 Remote AI jobs offer competitive pay, followed closely by those who work onsite and then the employees who choose to work as a hybrid of the two.
+
 Having many years of experience does not automatically mean a higher salary, as salary is also affected by other factors including the job title, job demand and Level of education.
 
-Countries such as the united sates dominate high paying opportunities
+Countries such as the united states dominate high paying opportunities
 
 The Ai jobs that are in demand tend to have higher salary ranges,
 
